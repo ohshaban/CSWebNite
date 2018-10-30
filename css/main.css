@@ -1,0 +1,14 @@
+html {
+    background-color: burlywood;
+}
+
+#aboutme {
+    text-align: center;
+}
+
+ul {
+    list-style-position: inside;
+    max-width: 15%;
+    margin: auto;
+    text-align: left;
+}
